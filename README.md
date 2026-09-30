@@ -9,7 +9,7 @@ Since this is a desktop application, you can see how it looks like in assets fol
 ## 🛠️ Built With
 
 **Backend**
-- Java [confirm version — 17 or 25?]
+- Java 25
 - Spring Boot — business logic and database access
 - PostgreSQL — relational data storage
 - Maven — dependency management
@@ -32,7 +32,7 @@ Spring Boot handles the service layer, dependency injection, and PostgreSQL pers
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Java [version] JDK
+- Java 25 JDK
 - PostgreSQL installed locally
 - Maven (or use the included `mvnw` wrapper)
 
