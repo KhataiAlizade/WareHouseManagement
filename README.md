@@ -60,8 +60,3 @@ spring.datasource.password=YOUR_PASSWORD
 mvnw.cmd spring-boot:run
 ```
 *(macOS/Linux: `./mvnw spring-boot:run`)*
-
-
-
-## 📄 License
-[MIT, or leave blank if unlicensed]
