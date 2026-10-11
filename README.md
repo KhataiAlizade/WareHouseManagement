@@ -27,7 +27,7 @@ Since this is a desktop application, you can see how it looks like in assets fol
 
 ## 🏗️ Architecture
 
-Spring Boot handles the service layer, dependency injection, and PostgreSQL persistence via [JPA/Hibernate or JDBC — confirm which], while Swing provides the native desktop UI. This separation keeps business logic testable independently of the UI layer.
+Spring Boot handles the service layer, dependency injection, and PostgreSQL persistence via JPA/Hibernate, while Swing provides the native desktop UI. This separation keeps business logic testable independently of the UI layer.
 
 ## 🚀 Getting Started
 
